@@ -7,7 +7,7 @@ This project analyzes sales data for a pizza restaurant to identify trends, top-
 ## Tools Used
 * **Data Analysis:** Microsoft Excel (Pivot Tables, Charts, Dashboarding)
 * **Data Verification:** SQL (SSMS/MySQL) to validate KPI calculations.
-* **Database:** [Insert Database Name, e.g., MS SQL Server]
+* **Database:** [MS SQL Server]
 
 ## Key Performance Indicators (KPIs)
 I calculated the following metrics using SQL to ensure the accuracy of the Excel dashboard:
